@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(9, 68, 9);
+    justify-content: center;
+   
+}
+div{
+    width: 315px;
+    height: 320px;
+    background-color: white;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+}
+input{
+    width: 250px;
+    height: 30px;
+}
+button{
+    background-color: rgb(4, 148, 4);
+    width: 260px;
+    height: 35px;
+    border: none;
+    color: white;
+}
+a{
+    color: rgb(4, 148, 4);
+}
